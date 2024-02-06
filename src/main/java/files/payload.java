@@ -23,8 +23,6 @@ public class payload {
 				"  \"language\": \"French-IN\"\r\n" + 
 				"}\r\n" + 
 				"";
-		
-		
 	}
 	
 
